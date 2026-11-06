@@ -13,3 +13,4 @@ wheels/
 # Folders
 /docs/*
 !/docs/fde_snapshot.png
+/data/
